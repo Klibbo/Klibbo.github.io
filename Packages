@@ -17,3 +17,21 @@ MD5sum: 8f6aafc521da7f2c6dd42b65919eab9d
 SHA1: ce8d8f165d17ff797168e564afdb2981667b4790
 SHA256: 7c41c59da49590e09318d514ebaf2ceeaa8226812c7acabbcddcf4f9602d2552
 SHA521: c907650aac927c07ab10ea6c3b234807de3f783126bd76e96ec2640c2ea0e4880fe26cd4e00fec40a1e37d2c70d4359dc13fb09cd817585950a1df6da662be82
+
+Package: com.jemidem.homepluspro
+Name: HomePlus Pro
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Edit your homescreen icons
+Maintainer: jemidem
+Author: Kritanta
+Section: Tweaks
+Version: 1.2.3
+Filename: debs/com.jemidem.homepluspro_1.2.3_iphoneos-arm.deb
+Depiction: https://biddo1.github.io/depictions/com.jaydutchlion.dockify.html
+Icon: https://biddo1.github.io/icons/com.jaydutchlion.dockify.png
+Size: 1167638
+MD5sum: 860f914e22e89c73eb494baddd91d471
+SHA1: c3024327e47b8d0b758f0ebd08e63c7c2dba1278
+SHA256: 9947cc33c1151f28a518e6dbbc21195eafab17bbe6d53bcd045bdeb018a73ecc
+SHA521: c53ca8a7c097267db0f6bf583ef8d8d1f2b26964f9d5a11e66a4c49ddf96812fb283fafb462a06ab7600e411b35b57be6987a11b8203695a1081906f4a3b33d5
