@@ -1,0 +1,8 @@
+Origin: Jemidem's repo
+Label: Jemidem's repo
+Suite: stable
+Version: 1.0
+Codename: Jemidemsrepo
+Architectures: iphoneos-arm
+Components: main
+Description: Jemidem's repo

@@ -1,0 +1,19 @@
+Package: com.jaydutchlion.dockify
+Name: Dockify
+Depends: mobilesubstrate, preferenceloader, com.saurik.substrate.safemode, ws.hbang.common (>=1.13)
+Conflicts: com.burritoz.dockify
+Architecture: iphoneos-arm
+Description: A dock tweak
+Maintainer: Jay
+Author: Jay
+Section: Tweaks
+Version: 1.2.3
+Installed-Size: 372
+Filename: debs/com.jaydutchlion.dockify_1.2.3_iphoneos-arm.deb
+Depiction: https://biddo1.github.io/depictions/com.jaydutchlion.dockify.html
+Icon: https://biddo1.github.io/icons/com.jaydutchlion.dockify.png
+Size: 34492
+MD5sum: 8f6aafc521da7f2c6dd42b65919eab9d
+SHA1: ce8d8f165d17ff797168e564afdb2981667b4790
+SHA256: 7c41c59da49590e09318d514ebaf2ceeaa8226812c7acabbcddcf4f9602d2552
+SHA521: c907650aac927c07ab10ea6c3b234807de3f783126bd76e96ec2640c2ea0e4880fe26cd4e00fec40a1e37d2c70d4359dc13fb09cd817585950a1df6da662be82
